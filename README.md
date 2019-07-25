@@ -8,7 +8,7 @@
 [Homework1](https://github.com/xiongdawei/C-Rooky/tree/master/July22HW)
 
 ### Homework For July 24th
-Homework2: [5.10](https://github.com/xiongdawei/C-Rooky/blob/master/July23HW/5.10.md) [5.15](https://github.com/xiongdawei/C-Rooky/blob/master/July23HW/5.15.cpp) [5.20]() [5.25]()
+Homework2: [5.10](https://github.com/xiongdawei/C-Rooky/blob/master/July23HW/5.10.md) [5.15](https://github.com/xiongdawei/C-Rooky/blob/master/July23HW/5.15.cpp) [5.20](https://github.com/xiongdawei/C-Rooky/blob/master/July23HW/5.20.cpp) [5.25]()
 
 ### Homework For July 25th
 Homework3: [6.14]() [6.21]() [6.24]() [6.29]() [6.30]()
