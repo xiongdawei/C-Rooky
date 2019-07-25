@@ -21,4 +21,4 @@ This repository is designed to record class notes as well as homeword programs.
 ### Chapter 6 Functions and Introduction to Recursion
 
 ### Chapter 7 Templates array and vector; Catching Exceptions
-#### Array
+#### [Array](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July25th/arrays001.cpp)
