@@ -19,7 +19,7 @@ This repository is designed to record class notes as well as homeword programs.
 ### Chapter 5 Contorl Statesment: Logic Operators
 
 ### Chapter 6 Functions and Introduction to Recursion
-#### [Junction_Template](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July25th/maximum.h)
+#### [Function_Template](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July25th/maximum.h)
 
 ### Chapter 7 Templates array and vector; Catching Exceptions
 #### [Array](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July25th/arrays001.cpp)
