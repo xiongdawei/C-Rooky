@@ -11,7 +11,7 @@
 Homework2: [5.10]() [5.15]() [5.20]() [5.25]()
 
 ### Homework For July 25th
-Homework3: [6.1]
+Homework3: [6.14]() [6.21]() [6.24]() [6.29]() [6.30]()
 
 
 ### Chapter 3 Introduction to Classes, Objects, Member Functions and Strings
@@ -24,4 +24,4 @@ Homework3: [6.1]
 #### [Function_Template](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July25th/maximum.h)
 
 ### Chapter 7 Templates array and vector; Catching Exceptions
-#### [Array1](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July25th/arrays001.cpp) [Array2](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July25th/array002.cpp)
+#### [Array1](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July25th/arrays001.cpp),[Array2](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July25th/array002.cpp),[Sorting]()
