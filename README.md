@@ -1,6 +1,8 @@
 # C++ Rookies
 
-This repository is designed to record class notes as well as homeword programs. 
+This repository is designed to categorize class notes as well as homeword programs desgined by Mr.нет.
+
+ALL RIGHTS RESERVED🤪
 
 ### Homework For July 22rd
 [Homework1](https://github.com/xiongdawei/C-Rooky/tree/master/July22HW)
