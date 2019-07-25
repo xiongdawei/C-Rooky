@@ -24,4 +24,4 @@ Homework3: [6.1]
 #### [Function_Template](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July25th/maximum.h)
 
 ### Chapter 7 Templates array and vector; Catching Exceptions
-#### [Array](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July25th/arrays001.cpp)
+#### [Array1](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July25th/arrays001.cpp) [Array2](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July25th/array002.cpp)
