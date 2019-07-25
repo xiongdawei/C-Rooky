@@ -1,6 +1,6 @@
 # C++ Rookies
 
-Created By Dawei Xiong and Jialin He.
+This repository is designed to record class notes as well as homeword programs. 
 
 ### Homework For July 22rd
 [Homework1](https://github.com/xiongdawei/C-Rooky/tree/master/July22HW)
