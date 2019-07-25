@@ -6,10 +6,10 @@ This repository is designed to record class notes as well as homeword programs.
 [Homework1](https://github.com/xiongdawei/C-Rooky/tree/master/July22HW)
 
 ### Homework For July 24th
-[Homework2]()
+Homework2: [5.10] [5.15] [5.20] [5.25]
 
 ### Homework For July 25th
-[Homework3]()
+Homework3: [6.1]
 
 
 ### Chapter 3 Introduction to Classes, Objects, Member Functions and Strings
