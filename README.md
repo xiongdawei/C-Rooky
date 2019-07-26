@@ -25,3 +25,5 @@ Homework3: [6.14](https://github.com/xiongdawei/C-Rooky/blob/master/July23HW/6.1
 
 ### Chapter 7 Templates array and vector; Catching Exceptions
 #### [Array1](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July25th/arrays001.cpp),[Array2](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July25th/array002.cpp),[Sorting]()
+
+### C
