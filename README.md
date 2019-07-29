@@ -27,3 +27,5 @@ Homework3: [6.14](https://github.com/xiongdawei/C-Rooky/blob/master/July23HW/6.1
 #### [Array1](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July25th/arrays001.cpp),[Array2](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July25th/array002.cpp),[Sorting]()
 
 ### Chapter 8 Pointers
+
+[pointer1](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July29/pointer001.cpp), [pointer2](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July29/pointer002.cpp)
