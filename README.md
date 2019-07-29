@@ -27,7 +27,7 @@ Homework4: [7.13](), [7.14](), [7.19](), [8.8](), [8.11](), [8.12](), [8.13]()
 #### [Function_Template](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July25th/maximum.h)
 
 ### Chapter 7 Templates array and vector; Catching Exceptions
-#### [Array1](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July25th/arrays001.cpp),[Array2](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July25th/array002.cpp),[Sorting]() [Array3](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July26th/test001.cpp) [Array4]()
+#### [Array1](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July25th/arrays001.cpp),[Array2](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July25th/array002.cpp),[Sorting]() [Array3](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July26th/test001.cpp) [Multi-dimensional Array](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July26th/test002.cpp) 
 
 ### Chapter 8 Pointers
 
