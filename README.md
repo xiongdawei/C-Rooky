@@ -32,3 +32,7 @@ Homework4: [7.13](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July29
 ### Chapter 8 Pointers
 
 [pointer1](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July29/pointer001.cpp), [pointer2](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July29/pointer002.cpp)
+
+### Chapter 9 Classes: A Deeper Look
+
+[Friend_Function]()
