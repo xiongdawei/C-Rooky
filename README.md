@@ -17,7 +17,7 @@ Homework3: [6.14](https://github.com/xiongdawei/C-Rooky/blob/master/July23HW/6.1
 Homework4: [7.13](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July29/7.13.cpp), [7.14](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July29/7.14.cpp), [7.19](), [8.8](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July29/8.8.cpp), [8.11](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July29/8.11.md), [8.12](), [8.13](https://github.com/xiongdawei/C-Rooky/blob/master/Notes_July29/8.13.md)
 
 ### Homework For August 2nd
-Homework5: [9.6](),[9.11](),[9.12](),[9.21](),[9.23]()
+Homework5: [9.6](), [9.11](), [9.12](), [9.21](), [9.23]()
 
 
 ### Chapter 3 Introduction to Classes, Objects, Member Functions and Strings
